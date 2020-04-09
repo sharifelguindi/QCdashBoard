@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="70c157ed-2165-4420-a8c9-6c90d672c8df" name="medphys" url="http://plvimphctrl1">
+        <fileTransfer host="plvimphctrl1" port="22" rootFolder="/cluster/home/elguinds/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
